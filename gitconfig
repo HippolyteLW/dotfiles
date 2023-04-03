@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hippolyte.carel@essec.edu
+	name = Hippolyte Carel
